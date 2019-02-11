@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="310e3e07-57f6-489c-905e-1369ac48b1d1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-738276898">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="123" />
+          <entry key="dummy" value="254" />
+          <entry key="html" value="388" />
+          <entry key="py" value="4402" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="123" />
+          <entry key="HTML" value="388" />
+          <entry key="PLAIN_TEXT" value="254" />
+          <entry key="Python" value="4402" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cfg" value="1" />
+          <entry key="css" value="3" />
+          <entry key="gitignore" value="3" />
+          <entry key="html" value="14" />
+          <entry key="json" value="1" />
+          <entry key="lastfailed" value="3" />
+          <entry key="md" value="5" />
+          <entry key="nodeids" value="3" />
+          <entry key="png" value="6" />
+          <entry key="py" value="95" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="14" />
+          <entry key="Image" value="6" />
+          <entry key="JSON" value="1" />
+          <entry key="Markdown" value="5" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Python" value="95" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/Fill_Filters_and_Search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="8" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuite/test_runner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1549909008408" expanded="true" signature="179:181" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/StandardTests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageobjects/Quick_Search_PO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/.pytest_cache/v/cache/lastfailed">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/.pytest_cache/v/cache/nodeids">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/.pytest_cache/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/functions/.pytest_cache/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\amersfma\PycharmProjects\selenium\functions</dir>
+      <dir>C:\Users\amersfma\PycharmProjects\selenium\pageobjects</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ex1/test_hello_world.py" />
+        <option value="$PROJECT_DIR$/ex2/test_2.py" />
+        <option value="$PROJECT_DIR$/ex3/test_htmltest.py" />
+        <option value="$PROJECT_DIR$/ex4/test_xpath.py" />
+        <option value="$PROJECT_DIR$/ex3/stylesheet.css" />
+        <option value="$PROJECT_DIR$/ex3/htmltest.html" />
+        <option value="$PROJECT_DIR$/ex9/test_screenshot.py" />
+        <option value="$PROJECT_DIR$/ex10/test_id.py" />
+        <option value="$PROJECT_DIR$/ex8/test_browser.py" />
+        <option value="$PROJECT_DIR$/ex16/test_atribute.py" />
+        <option value="$PROJECT_DIR$/ex17/test_selected.py" />
+        <option value="$PROJECT_DIR$/ex22/test_PO.py" />
+        <option value="$PROJECT_DIR$/ex20/test_alerts.py" />
+        <option value="$PROJECT_DIR$/ex23/test_test.py" />
+        <option value="$PROJECT_DIR$/ex18/test_expcond.py" />
+        <option value="$PROJECT_DIR$/ex6/test_switch.py" />
+        <option value="$PROJECT_DIR$/ex5/test_css.py" />
+        <option value="$PROJECT_DIR$/functions/filtersearch.py" />
+        <option value="$PROJECT_DIR$/functions/standardtests.py" />
+        <option value="$PROJECT_DIR$/pageobjects/quicksearch.py" />
+        <option value="$PROJECT_DIR$/functions/StandardTests.py" />
+        <option value="$PROJECT_DIR$/testsuite/test_runner.py" />
+        <option value="$PROJECT_DIR$/testsuite/Test_Class.py" />
+        <option value="$PROJECT_DIR$/testsuite/Test_Suite.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fundaquicksearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundaquicksearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundaquicksearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="pageobjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundaquicksearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="testsuite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundaquicksearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="fundaquicksearch" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="fundaquicksearch" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in testsuite">
+    <configuration name="Test_Suite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fundaquicksearch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testsuite/Test_Suite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="fundaquicksearch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\amersfma\PycharmProjects\selenium\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--html\u003dtestMargriet.html&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_runner.test_postcode_filters" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="fundaquicksearch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\amersfma\PycharmProjects\selenium\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--html\u003dtestMargriet.html&quot;" />
+      <option name="_new_target" value="&quot;test_runner.test_postcode_filters&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_runner.test_postcodefout_filters" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="fundaquicksearch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\amersfma\PycharmProjects\selenium\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--html\u003dtestMargriet.html&quot;" />
+      <option name="_new_target" value="&quot;test_runner.test_postcodefout_filters&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_runner.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="fundaquicksearch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\amersfma\PycharmProjects\selenium\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--html\u003dtestMargriet.html&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testsuite/test_runner.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in testsuite" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="fundaquicksearch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\amersfma\PycharmProjects\selenium\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--html\u003dtestMargriet.html&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testsuite&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest in testsuite" />
+      <item itemvalue="Python tests.pytest in test_runner.py" />
+      <item itemvalue="Python tests.pytest for test_runner.test_postcode_filters" />
+      <item itemvalue="Python tests.pytest for test_runner.test_postcodefout_filters" />
+      <item itemvalue="Python.Test_Suite" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in testsuite" />
+        <item itemvalue="Python.Test_Suite" />
+        <item itemvalue="Python tests.pytest for test_runner.test_postcodefout_filters" />
+        <item itemvalue="Python tests.pytest for test_runner.test_postcode_filters" />
+        <item itemvalue="Python tests.pytest in test_runner.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="310e3e07-57f6-489c-905e-1369ac48b1d1" name="Default Changelist" comment="" />
+      <created>1540852637470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540852637470</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_test_runner_test_postcode_filters - 2019.02.10 at 16h 22m 27s.xml">
+      <configuration name="pytest for test_runner.test_postcode_filters" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_runner_test_postcodefout_filters - 2019.02.10 at 16h 22m 55s.xml">
+      <configuration name="pytest for test_runner.test_postcodefout_filters" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_testsuite - 2019.02.10 at 16h 27m 27s.xml">
+      <configuration name="pytest in testsuite" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_runner_test_postcodefout_filters - 2019.02.10 at 16h 29m 01s.xml">
+      <configuration name="pytest for test_runner.test_postcodefout_filters" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_testsuite - 2019.02.10 at 16h 33m 17s.xml">
+      <configuration name="pytest in testsuite" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_runner_test_postcodefout_filters - 2019.02.10 at 16h 44m 26s.xml">
+      <configuration name="pytest for test_runner.test_postcodefout_filters" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_testsuite - 2019.02.10 at 17h 02m 31s.xml">
+      <configuration name="pytest in testsuite" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_testsuite - 2019.02.10 at 17h 07m 38s.xml">
+      <configuration name="pytest in testsuite" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_testsuite - 2019.02.11 at 18h 57m 30s.xml">
+      <configuration name="pytest in testsuite" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_testsuite - 2019.02.11 at 20h 19m 49s.xml">
+      <configuration name="pytest in testsuite" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49889624" visible="true" weight="0.2756654" />
+      <window_info id="Structure" order="1" sideWeight="0.50110376" side_tool="true" weight="0.2756654" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32839838" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39030954" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988355" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32839838" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3001346" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49889624" visible="true" weight="0.2756654" />
+      <window_info id="Structure" order="1" sideWeight="0.50110376" side_tool="true" visible="true" weight="0.2756654" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32839838" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39030954" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988355" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32839838" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.30148047" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/chrome/remote_connection.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/chrome/options.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex9/screenshots/2._Built-in_Functions_—_Python_2.7.15_documentation_20181105175226589157.png" />
+    <entry file="file://$PROJECT_DIR$/ex9/screenshots/Built-in_Functions_—_Python_3.7.1_documentation_20181105175227810061.png" />
+    <entry file="file://$PROJECT_DIR$/ex9/screenshots/Built-in_Functions_—_Python_3.7.1_documentation_20181105175230795763.png" />
+    <entry file="file://$PROJECT_DIR$/ex9/screenshots/2._Built-in_Functions_—_Python_2.7.15_documentation_20181105175228349596.png" />
+    <entry file="file://$PROJECT_DIR$/ex9/screenshots/Welcome_to_Python.org_20181105175119594845.png" />
+    <entry file="file://$PROJECT_DIR$/ex9/screenshots/Welcome_to_Python.org_20181105175225283850.png" />
+    <entry file="file://$PROJECT_DIR$/ex17/testMargriet.html" />
+    <entry file="file://$PROJECT_DIR$/testsuite/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/testsuite/htmltest.html" />
+    <entry file="file://$PROJECT_DIR$/ex18/testMargriet.html" />
+    <entry file="file://$PROJECT_DIR$/ex6/testMargriet.html" />
+    <entry file="file://$PROJECT_DIR$/ex4/testMargriet.html" />
+    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex8/testMargriet.html" />
+    <entry file="file://$PROJECT_DIR$/ex5/testMargriet.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4993">
+          <caret line="390" selection-start-line="390" selection-end-line="390" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex5/.pytest_cache/README.md" />
+    <entry file="file://$PROJECT_DIR$/ex23/testMargriet.html" />
+    <entry file="file://$PROJECT_DIR$/ex4/test_xpath.py" />
+    <entry file="file://$PROJECT_DIR$/ex22/test_PO.py" />
+    <entry file="file://$PROJECT_DIR$/ex8/test_browser.py" />
+    <entry file="file://$PROJECT_DIR$/ex10/test_id.py" />
+    <entry file="file://$PROJECT_DIR$/ex16/test_atribute.py" />
+    <entry file="file://$PROJECT_DIR$/ex6/test_switch.py" />
+    <entry file="file://$PROJECT_DIR$/ex17/test_selected.py" />
+    <entry file="file://$PROJECT_DIR$/ex18/test_expcond.py" />
+    <entry file="file://$PROJECT_DIR$/ex5/test_css.py" />
+    <entry file="file://$PROJECT_DIR$/ex9/test_screenshot.py" />
+    <entry file="file://$PROJECT_DIR$/ex20/test_alerts.py" />
+    <entry file="file://$PROJECT_DIR$/ex23/test_test.py" />
+    <entry file="file://$PROJECT_DIR$/.pytest_cache/v/cache/nodeids">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.pytest_cache/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/assets/style.css" />
+    <entry file="file://$PROJECT_DIR$/functions/testMargriet.html" />
+    <entry file="file://$PROJECT_DIR$/testsuite/testMargriet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.pytest_cache/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/build/test_runner/warn-test_runner.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/Test_Class.py" />
+    <entry file="file://$PROJECT_DIR$/testsuite/Test_Suite.py" />
+    <entry file="file://$PROJECT_DIR$/functions/Fill_Filters_and_Search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/test_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1549909008408" expanded="true" signature="179:181" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/StandardTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobjects/Quick_Search_PO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/.pytest_cache/v/cache/lastfailed">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/.pytest_cache/v/cache/nodeids">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/.pytest_cache/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/.pytest_cache/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
